@@ -1,0 +1,7 @@
+User: Alex	Phone: +79995554433	Barber: Раджеш Кутропали
+User: Alex	Phone: +79995554433	Barber: Говард Воловиц
+User: Alex	Phone: +79995554433	Barber: Раджеш Кутропали
+User: 	Phone: 	Barber: ...
+User: Alex	Phone: +79995554433	Barber: Леонард Хофстедер
+User: Alex	Phone: +79995554433	Barber: Леонард Хофстедер
+User: as	Phone: +79995554433	Barber: ...

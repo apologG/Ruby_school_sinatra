@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+  	<head>
+	
+
+	<title>My "Hello world"</title>
+	
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!-- Bootstrap -->
+	<link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+     
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="/vendor/jquery-1.9.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <script src="jquery.simplecolorpicker.js"></script>
+	<link rel="stylesheet" href="jquery.simplecolorpicker.css">
+   
+	</head>
+	
+	<body>
+  	
+  	<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+		  
+		<a class="navbar-brand" href="/">My Hello World</a>
+		<div class="collapse navbar-collapse">
+			<ul class="navbar-nav mr-auto">
+			    <li><a class="nav-link" href="/about">О нас</a></li>
+			   	<li><a class="nav-link" href="/barber">BarberShop</a></li>
+		    	<li><a class="nav-link" href="/visit">Записаться</a></li>
+		    	<li><a class="nav-link" href="/contacts">Контакты</a></li>
+		    	<li><a class="nav-link" href="/admin">Вход</a></li>
+			</ul>
+		</div>
+	</nav>
+			
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+
+	<main role="main" class="container">
+		<div class="starter-template">
+			<%if @error then %>
+				<div class="alert alert-danger"><%=@error%></div>
+			<% end %>
+			<%= yield %>
+		</div>
+			
+		
+		<div class="fixed-bottom">
+    		<div class="text-center">
+	    		<text>©2020 made by me</text>
+	    		<label> <a href="/">На главную страницу</a></label>
+	    	</div>
+		</div>
+	</main>
+
+
+	</body>
+</html>

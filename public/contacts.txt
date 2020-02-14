@@ -1,0 +1,35 @@
+User: sasda@mail.ru
+Message: hello world
+User: alexroz@bk.ru
+Message: Привет, какой херней ты занимаешься сегодня?
+User: alexroz@bk.ru
+Message: Привет, друг!
+
+
+User: sasda@mail.ru
+Message: Hello! 
+
+User: sasda@mail.ru
+Message: 1111
+
+User: sasda@mail.ru
+Message: 1111
+
+User: sds@bk.ru
+Message: qweqweqweqweqweqweqweqweasdqasd
+
+User: alex_roz@bk.ru
+Message: hello there!
+
+User: alex_roz@bk.ru
+Message: hello!
+
+User: ivan@gmai.com
+Message: 123123
+
+User: ivan@gmai.com
+Message: hello there
+
+User: alex_roz@bk.ru
+Message: testing
+
